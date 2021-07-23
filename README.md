@@ -1,6 +1,6 @@
 # A Dynamic Seafood Real-Time React Application
 
-## This app allows user to create a personalized store name, load sample items to the Menu and add selected items to cart. This app also includes a Sign In option for authentication to manage your Store's Inventory
+### This app allows user to create a personalized store name, load sample items to the Menu and add selected items to cart. This app also includes a Sign In option for authentication to manage your Store's Inventory
 
  [](#)
 
